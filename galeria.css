@@ -1,0 +1,17 @@
+
+figure {
+    text-align: center;
+    }
+
+
+img{
+    border: 2px solid #FFFFFF;
+    border-radius: 15px;
+    border-width: 15px;
+    box-shadow: 6px 6px 6px 6px grey;
+}
+
+#imagenes{
+
+     float: left;
+ }
